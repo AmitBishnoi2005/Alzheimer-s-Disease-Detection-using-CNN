@@ -1,4 +1,4 @@
-# 🧠 Alzheimer's Disease Detection using CNN
+# Alzheimer's Disease Detection using CNN
 
 A deep learning project that classifies brain MRI scans into four stages of Alzheimer's disease using a custom Convolutional Neural Network (CNN) built with TensorFlow/Keras — achieving **92.18% test accuracy**.
 
