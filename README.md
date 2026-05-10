@@ -26,15 +26,8 @@ Alzheimer's disease is a progressive neurological disorder that causes brain cel
 ## Dataset
 
 The dataset used is the **OASIS Alzheimer's Detection** dataset, organized into four classes:
-
-| Class | Description |
-|---|---|
-| **Mild Dementia** | Early-stage cognitive impairment |
-| **Moderate Dementia** | Moderate cognitive and functional decline |
-| **Non Demented** | No signs of dementia |
-| **Very Mild Dementia** | Subtle cognitive changes |
-
 ![Dataset Structure](dataset_structure.png)
+https://www.kaggle.com/datasets/ninadaithal/imagesoasis
 
 **Data Split:**
 - 🟢 Training: **80%**
