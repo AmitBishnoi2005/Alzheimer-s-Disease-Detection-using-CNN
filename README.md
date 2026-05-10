@@ -26,9 +26,10 @@ Alzheimer's disease is a progressive neurological disorder that causes brain cel
 ## Dataset
 
 The dataset used is the **OASIS Alzheimer's Detection** dataset, organized into four classes:
+https://www.kaggle.com/datasets/ninadaithal/imagesoasis
+
 
 ![Dataset Structure](dataset_structure.png)
-https://www.kaggle.com/datasets/ninadaithal/imagesoasis
 
 **Data Split:**
 - 🟢 Training: **80%**
